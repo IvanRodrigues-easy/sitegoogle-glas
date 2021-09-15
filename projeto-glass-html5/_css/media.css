@@ -1,0 +1,14 @@
+section#corpo-full{
+    display:block;
+    width: 430px;
+    float: left;
+    
+    padding-right: 10px;
+  }
+  .direita{
+    text-align: right;
+  }
+  section#conteudo{
+    width: 900px;
+    margin: auto;
+}
