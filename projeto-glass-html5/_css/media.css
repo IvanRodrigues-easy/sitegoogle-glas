@@ -1,3 +1,4 @@
+@charset "UTF-8";
 section#corpo-full{
     display:block;
     width: 430px;
@@ -11,4 +12,28 @@ section#corpo-full{
   section#conteudo{
     width: 900px;
     margin: auto;
+}
+
+div#tv-radio{
+  width: 900px;
+  height: 580px;
+  margin: auto;
+  background: url("../_imagens/radio-tv.png") no-repeat;
+}
+audio#musica{
+  display: block;
+  position: relative;
+  left:594px  ;
+  top: 490px;
+  width: 250px;
+  
+  
+}
+video#filme{
+  display: block;
+  position: relative;
+  left:80px;
+  top: 70px;
+  width: 450px;
+  border-radius: 10px;
 }
